@@ -9,6 +9,8 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 1.2'
 gem 'ember-rails'
 gem 'ember-data-source', '~> 1.0.0.beta.7'
+gem 'bootstrap-sass'
+gem 'bootstrap-sass-extras'
 
 group :development do
   gem 'better_errors'
